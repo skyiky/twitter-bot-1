@@ -1,0 +1,20 @@
+{
+  "name": "twitter-bot-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyiky/twitter-bot-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skyiky/twitter-bot-1/issues"
+  },
+  "homepage": "https://github.com/skyiky/twitter-bot-1#readme"
+}
